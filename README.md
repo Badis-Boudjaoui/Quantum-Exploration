@@ -6,7 +6,7 @@
 
 ## 📖 About
 This repository hosts the resources for the presentation **"Quantum Computing: Towards a Revolutionary Future"**.
-Produced by **Group 12 (1CP)** at **ESTIN**, this project demystifies the transition from classical bits to quantum qubits. We explore the mathematical foundations (Hilbert space, Bloch sphere), quantum logic gates, and the groundbreaking algorithms that define this era.
+Produced by **Group 12 (1CP)** at **ESTIN**, this project demystifies the transition from classical bits to quantum qubits. We explore the mathematical foundations (Hilbert space, Bloch sphere), quantum logic gates, and the groundbreaking algorithms that define this era .
 
 ## 🚀 Key Topics
 - **Foundations:** Superposition, Entanglement (Bell States), and Qubits.
